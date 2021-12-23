@@ -1,6 +1,5 @@
-# lembrete_agua
-bebe água vei
+# Lembrete
 
-Baixe o agua.exe e o water_frask.ico, deixe os dois na mesma pasta.
+Baixe o agua.exe e o water_frask.ico, deixe os dois na mesma pasta, após isso coloque um atalho na pasta inicializar do Windows. 
 
-E beba água.
+E hidrate-se!
